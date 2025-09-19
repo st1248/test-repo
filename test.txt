@@ -6,5 +6,10 @@ Agnes Nelson	205-52-0027	5/24/1991
 Lynette Oyola	587-03-2682	6/25/1991
 Stacey Peacock	687-05-8365	2/18/1968
 
+Tim Lowe	044-34-6954	1/20/1991
+Monte Mceachern	477-36-0282	2/21/1991
+Adriane Morrison	421-90-3440	3/22/1991
+Jerome Munsch	524-02-7657	4/23/1991
+
 
 Data is coming from DLPtest.com
